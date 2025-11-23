@@ -7,7 +7,7 @@ Um simulador educacional interativo para arquiteturas superescalares que impleme
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * **Execução Passo a Passo (Cycle-by-Cycle):** Visualize o despacho (Issue), execução, escrita (Write Result) e graduação (Commit) de cada instrução.
 * **Pipeline Visual:** Tabelas dinâmicas para acompanhar o estado do processador:
@@ -22,13 +22,13 @@ Um simulador educacional interativo para arquiteturas superescalares que impleme
 
 ---
 
-## 🛠️ Pré-requisitos
+##  Pré-requisitos
 
 Para rodar este simulador, você precisa ter o **Python 3** instalado.
 
 A interface gráfica utiliza a biblioteca `tkinter`, que geralmente já vem instalada com o Python no Windows e macOS.
 
-### Linux (Debian/Ubuntu/Kali/Mint)
+### Linux (Debian/Ubuntu)
 No Linux, pode ser necessário instalar o pacote separadamente:
 
 ```bash
