@@ -51,7 +51,7 @@ sudo pacman -S tk
 
 Clone este repositório:
 
-git clone [https://github.com/SEU_USUARIO/tomasulo-simulator.git](https://github.com/SEU_USUARIO/tomasulo-simulator.git)
+git clone https://github.com/felipevidias/tomasulo_sim
 cd tomasulo-simulator
 
 
